@@ -9,8 +9,9 @@
 
     <application
         android:allowBackup="false"
-        android:label="GFL RU Launcher"
-        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        android:icon="@mipmap/ic_launcher"
+        android:label="GFL RU"
+        android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
             android:exported="true">
